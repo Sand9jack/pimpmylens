@@ -34,26 +34,61 @@
 	<body class="home logged-in">
 
 
-		<header>
+		<header align="center">
 			<div class="banniere">
-				Ici la banniere
-
+				<!--Ici la banniere-->
+		
+			<p>
+				<img src="http://localhost/img/pimpmylenslogo.PNG" />
+				<br />
+			</p>
 			</div>
+
 			<nav>
-				<ul>
-					<li>Item 1...</li>
+				<ul class="fancyNav">
+				
+					
+					<li id="Item 1"><a href="#">Accueil</a></li>
+					<li id="Item 2"><a href="#">Ventes</a></li>
+					<li id="Item 3"><a href="#">Services</a></li>
+
+					<br />
+
 				</ul>
 			</nav>
+			
 		</header>
 
+
+
 		<aside>
-			Liste des catégories
+			<h3>BLABLA</h3>
+				<li><a href="#">Devenez LensPimper</a></li>
+				<li><a href="#">Atelier LensPimping</a></li>	
+				<li><a href="#">Liens utiles (+18)</a></li>
+				<li><a href="#">After-Sex Selfies</a></li>
 		</aside>
+
+
+		<br />
+
+
 
 		<section class="contenu">
 			<article>
-				Ici un article...
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
+				pimpmylenspimpmylenspimpmylenspimpmylenspimpmylens
 			</article>
+			<br />
+			<br />
 
 		</section>
 
@@ -61,9 +96,9 @@
 
 			Ici le footer
 		</footer>
+		<br />
 
-
-		ICI mon site
+		ICI MON SITE ( BODY )
 
 	</body>
 
